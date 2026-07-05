@@ -1,0 +1,19 @@
+{
+  "name": "joy-main",
+  "version": "1.0.0",
+  "description": "JOY - Facebook Messenger Bot Framework",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "You",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "moment-timezone": "^0.5.43",
+    "ws3-fca": "^0.0.34"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}

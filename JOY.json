@@ -1,0 +1,14 @@
+{
+  "botName": "JOY",
+  "prefix": "/",
+  "admins": [
+    "100000000000000"
+  ],
+  "language": "bn",
+  "autoRestartOnCrash": true,
+  "autoRestartAfterMinutes": 0,
+  "adminOnlyMode": false,
+  "logCommandsToConsole": true,
+  "welcomeEventEnabled": true,
+  "leaveEventEnabled": true
+}
